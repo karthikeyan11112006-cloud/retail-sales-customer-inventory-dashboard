@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This is a personal **Retail Analytics project** developed using Microsoft Excel to analyze retail sales, customer information, and inventory performance.
+This is a internship based project **Retail Analytics project** developed using Microsoft Excel to analyze retail sales, customer information, and inventory performance.
 
 The project converts raw retail data into meaningful business information using Excel formulas, PivotTables, PivotCharts, and an interactive dashboard.
 
